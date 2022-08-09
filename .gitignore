@@ -1,0 +1,12 @@
+*.csproj
+Logs/
+Library/
+.vs/
+.vsconfig
+Best game forever.sln
+Library/
+Packages/
+ProjectSettings/
+Temp/
+UserSettings/
+obj/
